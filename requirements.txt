@@ -1,0 +1,5 @@
+streamlit
+google-generativeai
+docxtpl
+python-docx
+pillow
